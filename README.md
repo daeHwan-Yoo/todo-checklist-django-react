@@ -1,6 +1,6 @@
 # 🚀 Project Name
 
-![Project Image](project-image.png)
+![Project Image](thumbnail.png)
 
 [![Language](https://img.shields.io/badge/language-Python-blue.svg)](https://www.python.org/)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE.md)
